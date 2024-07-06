@@ -1,1 +1,1 @@
-Repositories available at [https://dev.brisadelmar.es/scm/](https://dev.brisadelmar.es/scm/)
+Repositories available at [https://dev.brisadelmar.es](https://dev.brisadelmar.es)
