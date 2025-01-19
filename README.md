@@ -1,1 +1,1 @@
-Repositories available at [https://dev.brisadelmar.es/vcs/](https://dev.brisadelmar.es/vcs/)
+Repositories available at [https://vcs.maprosper.com/](https://vcs.maprosper.com/)
